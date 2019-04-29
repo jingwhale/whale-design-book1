@@ -1,12 +1,6 @@
 # First Chapter
 
-
-
-# dqwdwqdwqd
-
-
-
-wdqd
+# 
 
 
 
