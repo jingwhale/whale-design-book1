@@ -29,7 +29,7 @@
 * [工具集](gong-ju-ji.md)
   * [Whale Kit](gong-ju-ji/whale-kit.md)
   * [Design Signifiers](gong-ju-ji/design-signifiers.md)
-  * [设计文件的版本控制](she-ji-wen-jian-de-ban-ben-kong-zhi.md)
   * [Sketch webView插件开发](gong-ju-ji/sketch-webviewcha-jian-kai-fa.md)
   * [Sketch的正反方向工程成果](gong-ju-ji/sketchde-zheng-fan-fang-xiang-gong-cheng-cheng-guo.md)
+  * [设计文件的版本控制](she-ji-wen-jian-de-ban-ben-kong-zhi.md)
 
