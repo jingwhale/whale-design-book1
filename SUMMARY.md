@@ -26,10 +26,10 @@
   * [数据驱动研发设计](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-qu-dong-yan-fa-she-ji.md)
   * [数据分析指标与平台](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-fen-xi-zhi-biao-yu-ping-tai.md)
   * [常见数据框架与技术](gao-xiao-shu-ju-qu-dong-she-ji/chang-jian-shu-ju-kuang-jia-yu-ji-zhu.md)
-* [设计文件的版本控制](she-ji-wen-jian-de-ban-ben-kong-zhi.md)
 * [工具集](gong-ju-ji.md)
   * [Whale Kit](gong-ju-ji/whale-kit.md)
   * [Design Signifiers](gong-ju-ji/design-signifiers.md)
+  * [设计文件的版本控制](she-ji-wen-jian-de-ban-ben-kong-zhi.md)
   * [Sketch webView插件开发](gong-ju-ji/sketch-webviewcha-jian-kai-fa.md)
   * [Sketch的正反方向工程成果](gong-ju-ji/sketchde-zheng-fan-fang-xiang-gong-cheng-cheng-guo.md)
 
