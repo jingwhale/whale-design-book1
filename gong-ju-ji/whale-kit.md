@@ -192,7 +192,7 @@ Symbols page是page的一种特殊情况，用法与page相同。需要选中库
 填写完封面数据后，点击“Generate Cover”按钮，即可生成封面：  
 ![&#x5C01;&#x9762;.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1555772447881-41497fff-47b0-4e1f-a5be-c7cd7edb733a.png#align=left&display=inline&height=406&name=封面.png&originHeight=1024&originWidth=1440&size=44160&status=done&width=571)
 
-## 组件地址
+## whale-kit
 
 [https://github.com/jingwhale/whale-kit](https://github.com/jingwhale/whale-kit)
 
