@@ -10,5 +10,8 @@
 * [需求设计](xu-qiu-she-ji.md)
 * [动效设计与落地](dong-xiao-she-ji-yu-luo-di.md)
 * [高效设计交互规范](gao-xiao-she-ji-jiao-hu-gui-fan.md)
+  * [使用Sketch提高工作效率](gao-xiao-she-ji-jiao-hu-gui-fan/shi-yong-sketch-ti-gao-gong-zuo-xiao-lv.md)
+  * [Sketch Symbol嵌套设计](gao-xiao-she-ji-jiao-hu-gui-fan/sketch-symbolqian-tao-she-ji.md)
+  * [使用代码管理你的设计资产](gao-xiao-she-ji-jiao-hu-gui-fan/shi-yong-dai-ma-guan-li-ni-de-she-ji-zi-chan.md)
 * [高效数据驱动设计](gao-xiao-shu-ju-qu-dong-she-ji.md)
 
