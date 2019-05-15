@@ -1,14 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* [高效设计](chapter1.md)
-* [设计系统](test-chapter.md)
-* [设计理念](she-ji-li-nian.md)
-* [设计价值](she-ji-jia-zhi.md)
-* [设计规范](she-ji-gui-fan.md)
-* [需求分析](xu-qiu-fen-xi.md)
-* [需求设计](xu-qiu-she-ji.md)
-* [动效设计与落地](dong-xiao-she-ji-yu-luo-di.md)
-* [高效数据驱动设计](gao-xiao-shu-ju-qu-dong-she-ji.md)
-* [高效设计交互规范](gao-xiao-she-ji-jiao-hu-gui-fan.md)
+* 高效设计
+* 设计系统
+* 设计理念
+* 设计价值
+* 设计规范
+* 需求分析
+* 需求设计
+* 动效设计与落地
+* 高效数据驱动设计
+* 高效设计交互规范
 
