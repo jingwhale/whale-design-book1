@@ -9,6 +9,6 @@
 * [需求分析](xu-qiu-fen-xi.md)
 * [需求设计](xu-qiu-she-ji.md)
 * [动效设计与落地](dong-xiao-she-ji-yu-luo-di.md)
-* 高效数据驱动设计
-* 高效设计交互规范
+* [高效设计交互规范](gao-xiao-she-ji-jiao-hu-gui-fan.md)
+* [高效数据驱动设计](gao-xiao-shu-ju-qu-dong-she-ji.md)
 
