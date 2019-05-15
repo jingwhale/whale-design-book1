@@ -1,4 +1,4 @@
-# Sketch 中的版本控制
+# 设计文件的版本控制
 
 使用git管理设计.sketch文件的关键版本。[Demo](https://github.com/jingwhale/sketch-file)。
 
