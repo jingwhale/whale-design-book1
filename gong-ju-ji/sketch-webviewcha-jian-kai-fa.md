@@ -4,12 +4,12 @@
 
 Sketch成为梦想中的“设计师工具箱”。但是每个人都有不同的需求，也许你需要一个我们还没有实现的功能。不要担心：插件已经可以满足您的需求，或者你可以轻松创建一个插件。
 
-<a name="d3638727"></a>
-### 一、Sketch插件可以做什么？
+## 一、Sketch插件可以做什么？
+
 Sketch中的插件可以做任何用户可以做的事情（甚至更多！）。例如：
 
 | 根据复杂的规则选择文档中的图层 |
-| --- |
+| :--- |
 | 操作图层属性 |
 | 创建新图层 |
 | 以所有支持的格式导出资产 |
@@ -22,48 +22,54 @@ Sketch中的插件可以做任何用户可以做的事情（甚至更多！）�
 | 内容生成 |
 | 透视转换 |
 
-<a name="e9bb7231"></a>
-### 二、插件简介
-Sketch 插件都是 *.sketchplugin 的形式，其实就是一个文件夹，通过右键显示包内容，可以看到最普通的内部结构式是这样的：
+## 二、插件简介
 
-![屏幕快照 2019-03-12 下午8.23.50.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552393441316-708d19c6-2895-4bae-bea9-8ccdd241f117.png#align=left&display=inline&height=99&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-12%20%E4%B8%8B%E5%8D%888.23.50.png&originHeight=226&originWidth=1198&size=41539&status=done&width=527)
+Sketch 插件都是 \*.sketchplugin 的形式，其实就是一个文件夹，通过右键显示包内容，可以看到最普通的内部结构式是这样的：
 
-manifest.json用来声明插件配置信息，commands 定义所有可执行命令，每条 command 有唯一标志符，identifier，menu 定义插件菜单，通过 identifier 关联到执行命令。<br />my-commond.js是插件逻辑的实现代码实现文件。
+![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2019-03-12 &#x4E0B;&#x5348;8.23.50.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552393441316-708d19c6-2895-4bae-bea9-8ccdd241f117.png#align=left&display=inline&height=99&name=屏幕快照%202019-03-12%20下午8.23.50.png&originHeight=226&originWidth=1198&size=41539&status=done&width=527)
 
-<a name="a147a6d2"></a>
-### 三、Javascript API for Sketch
-这是Sketch的原型Javascript API。 原生Javascript，Sketch的完整内部结构的一个易于理解的子集。它仍然是一项正在进行中的工作。
+manifest.json用来声明插件配置信息，commands 定义所有可执行命令，每条 command 有唯一标志符，identifier，menu 定义插件菜单，通过 identifier 关联到执行命令。  
+my-commond.js是插件逻辑的实现代码实现文件。
 
-Javascript API for Sketch 原理：<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552392039065-098a212a-d33a-4b99-9c56-d8b50d8bf574.png#align=left&display=inline&height=211&name=image.png&originHeight=371&originWidth=745&size=58453&status=done&width=424)<br />
+## 三、Javascript API for Sketch
 
-<a name="ec057dbf"></a>
-### 四、[开发文档](https://developer.sketchapp.com/)
-<a name="7c591767"></a>
-#### 1、开发文档
+这是Sketch的原型Javascript API。 原生Javascript，Sketch的完整内部结构的一个易于理解的子集。它仍然是一项正在进行中的工作。
+
+Javascript API for Sketch 原理：  
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552392039065-098a212a-d33a-4b99-9c56-d8b50d8bf574.png#align=left&display=inline&height=211&name=image.png&originHeight=371&originWidth=745&size=58453&status=done&width=424)  
+
+
+## 四、[开发文档](https://developer.sketchapp.com/)
+
+### 1、开发文档
+
 [https://developer.sketchapp.com/](https://developer.sketchapp.com/)
 
-<a name="84df8b40"></a>
-#### 2、API
+### 2、API
+
 [https://developer.sketchapp.com/reference/api/](https://developer.sketchapp.com/reference/api/)
 
-<a name="b1b8e63b"></a>
-#### 3、Action API
-[https://developer.sketchapp.com/guides/action-api/](https://developer.sketchapp.com/guides/action-api/)<br />[https://developer.sketchapp.com/reference/action/](https://developer.sketchapp.com/reference/action/)
+### 3、Action API
 
-<a name="c5a41e95"></a>
-#### 4、Sketch Source
+[https://developer.sketchapp.com/guides/action-api/](https://developer.sketchapp.com/guides/action-api/)  
+[https://developer.sketchapp.com/reference/action/](https://developer.sketchapp.com/reference/action/)
+
+### 4、Sketch Source
+
 [https://github.com/BohemianCoding/SketchAPI/tree/develop/Source](https://github.com/BohemianCoding/SketchAPI/tree/develop/Source)
 
-<a name="6970a898"></a>
-#### 5、Demo
+### 5、Demo
+
 [https://github.com/BohemianCoding/SketchAPI/tree/develop/examples](https://github.com/BohemianCoding/SketchAPI/tree/develop/examples)
 
-<a name="e3f38545"></a>
-### 五、[Sketch webView](https://github.com/skpm/sketch-module-web-view)
-Sketch模块，用于使用webview创建复杂的UI。有别于一般的插件页面，可以使用webview模块加载一个复杂的Web应用，使其与Sketch进行交互。
-<a name="516364d7"></a>
-#### [1、BrowserWindow](https://github.com/skpm/sketch-module-web-view/blob/master/docs/browser-window.md)
+## 五、[Sketch webView](https://github.com/skpm/sketch-module-web-view)
+
+Sketch模块，用于使用webview创建复杂的UI。有别于一般的插件页面，可以使用webview模块加载一个复杂的Web应用，使其与Sketch进行交互。 
+
+### [1、BrowserWindow](https://github.com/skpm/sketch-module-web-view/blob/master/docs/browser-window.md)
+
 在浏览器窗口中创建和控制Sketch：
+
 ```javascript
 // In the plugin.
 const BrowserWindow = require('sketch-module-web-view');
@@ -81,9 +87,8 @@ win.loadURL('https://github.com')
 win.loadURL(require('./index.html'))
 ```
 
+### 2、获取已存在的BrowserWindow
 
-<a name="47e1c03a"></a>
-#### 2、获取已存在的BrowserWindow
 ```javascript
 import { getWebview } from 'sketch-module-web-view/remote';
 const = identifier = "identifier";
@@ -97,8 +102,8 @@ if (existingWebview) {
 }
 ```
 
-<a name="b1058ed9"></a>
-#### 3[、webContents](https://github.com/skpm/sketch-module-web-view/blob/master/docs/web-contents.md)
+### 3[、webContents](https://github.com/skpm/sketch-module-web-view/blob/master/docs/web-contents.md)
+
 ```javascript
 const BrowserWindow = require('sketch-module-web-view')
 
@@ -109,9 +114,10 @@ let contents = win.webContents
 console.log(contents)
 ```
 
-<a name="8252970f"></a>
-#### 4[、skech与webview的通信](https://github.com/skpm/sketch-module-web-view/blob/master/docs/communication-plugin-webview.md)
-1）Sending a message to the WebView from your plugin command<br />On the WebView:
+### 4[、skech与webview的通信](https://github.com/skpm/sketch-module-web-view/blob/master/docs/communication-plugin-webview.md)
+
+1）Sending a message to the WebView from your plugin command  
+On the WebView:
 
 ```javascript
 window.someGlobalFunctionDefinedInTheWebview = function(arg) {
@@ -129,7 +135,9 @@ browserWindow.webContents
   })
 ```
 
-2）Sending a message to the plugin from the WebView<br />On the plugin:
+2）Sending a message to the plugin from the WebView  
+On the plugin:
+
 ```javascript
 var sketch = require('sketch')
 
@@ -152,30 +160,39 @@ window.postMessage('nativeLog', {
 window.postMessage('nativeLog', 1, 2, 3)
 ```
 
-<a name="ce9b1845"></a>
-### [六、构建开发工程](https://github.com/jingwhale/sketch-webview-kit)
-<a name="cd461fda"></a>
-#### 1、确立技术栈
-使用[Sketch webView](https://github.com/skpm/sketch-module-web-view)的方式开发插件。用户通过操作插件界面，webview与Sketch通信解决用户的问题。这样插件界面可以使用现今所有的前端框架与组件库。<br />1）[webView](https://github.com/skpm/sketch-module-web-view)框架选择[Umi ](https://umijs.org/zh/guide/)+ [Ant Design](https://ant.design/index-cn)<br />注：WebView框架也可以单独的工程与部署。
+## [六、构建开发工程](https://github.com/jingwhale/sketch-webview-kit)
+
+### 1、确立技术栈
+
+使用[Sketch webView](https://github.com/skpm/sketch-module-web-view)的方式开发插件。用户通过操作插件界面，webview与Sketch通信解决用户的问题。这样插件界面可以使用现今所有的前端框架与组件库。  
+1）[webView](https://github.com/skpm/sketch-module-web-view)框架选择[Umi ](https://umijs.org/zh/guide/)+ [Ant Design](https://ant.design/index-cn)  
+注：WebView框架也可以单独的工程与部署。
 
 2）使用Sketch 官方skpm插件工程
 
-[3）调试工具](https://github.com/skpm/sketch-dev-tools)<br />A、使用官方的**[sketch-dev-tools](https://github.com/skpm/sketch-dev-tools) **sketch内作为调试工具<br />下载代码，代码运行安装插件即可：
-```
+[3）调试工具](https://github.com/skpm/sketch-dev-tools)  
+A、使用官方的[**sketch-dev-tools**](https://github.com/skpm/sketch-dev-tools) ****sketch内作为调试工具  
+下载代码，代码运行安装插件即可：
+
+```text
 npm install
 npm run build
 ```
-调试界面如下：<br />![屏幕快照 2019-03-19 下午2.21.17.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552976510855-f9639c89-04bb-4c05-8abb-f099b4ab63eb.png#align=left&display=inline&height=430&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-19%20%E4%B8%8B%E5%8D%882.21.17.png&originHeight=1650&originWidth=2862&size=630583&status=done&width=746)
 
-B、使用浏览器的开发者模式调试[webView](https://github.com/skpm/sketch-module-web-view)。<br />在sketch webView中右击显示调试器即可：![屏幕快照 2019-03-12 下午9.34.10.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552397733159-b8ac6ca0-5315-42a2-a3dc-6fb49b1a4d8d.png#align=left&display=inline&height=417&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-12%20%E4%B8%8B%E5%8D%889.34.10.png&originHeight=1524&originWidth=2728&size=769588&status=done&width=746)
-<a name="d41d8cd9"></a>
-#### 
-4）服务端技术方案<br />[轻量级服务器部署方案 -（阿里云CenOS+宝塔）](https://www.cnblogs.com/jingwhale/p/10659357.html)
-<a name="d41d8cd9-1"></a>
-#### 
-<a name="4b61ba56"></a>
-#### 2、构建工程
-1)创建Sketch插件基础工程<br />首先，创建sketch-webview-kit插件工程：
+调试界面如下：  
+![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2019-03-19 &#x4E0B;&#x5348;2.21.17.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552976510855-f9639c89-04bb-4c05-8abb-f099b4ab63eb.png#align=left&display=inline&height=430&name=屏幕快照%202019-03-19%20下午2.21.17.png&originHeight=1650&originWidth=2862&size=630583&status=done&width=746)
+
+B、使用浏览器的开发者模式调试[webView](https://github.com/skpm/sketch-module-web-view)。  
+在sketch webView中右击显示调试器即可：![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2019-03-12 &#x4E0B;&#x5348;9.34.10.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552397733159-b8ac6ca0-5315-42a2-a3dc-6fb49b1a4d8d.png#align=left&display=inline&height=417&name=屏幕快照%202019-03-12%20下午9.34.10.png&originHeight=1524&originWidth=2728&size=769588&status=done&width=746) 
+
+4）服务端技术方案  
+[轻量级服务器部署方案 -（阿里云CenOS+宝塔）](https://www.cnblogs.com/jingwhale/p/10659357.html) 
+
+### 2、构建工程
+
+1\)创建Sketch插件基础工程  
+首先，创建sketch-webview-kit插件工程：
+
 ```bash
 npm install -g skpm
 skpm create sketch-webview-kit //创建sketch-webview-kit插件工程
@@ -183,40 +200,49 @@ skpm create sketch-webview-kit //创建sketch-webview-kit插件工程
 
 其次，依赖sketch-module-web-view：
 
-```
+```text
 npm install sketch-module-web-view
 ```
 
+2）创建webView工程（[Umi ](https://umijs.org/zh/guide/)+ [Ant Design](https://ant.design/index-cn)）  
+首先，创建webView工程目录，
 
-2）创建webView工程（[Umi ](https://umijs.org/zh/guide/)+ [Ant Design](https://ant.design/index-cn)）<br />首先，创建webView工程目录，
 ```bash
 $ mkdir webapp && cd webapp
 ```
 
 然后，创建webView工程
+
 ```bash
 yarn create umi
 ```
-依次：<br />选择 app, 然后回车确认；<br />选上 antd 和 dva，然后回车确认；
+
+依次：  
+选择 app, 然后回车确认；  
+选上 antd 和 dva，然后回车确认；
 
 最后，安装依赖：
-```
+
+```text
 $ yarn
 ```
 
-3）配置webView工程<br />[A.部署打包配置](https://umijs.org/zh/guide/deploy.html#%E9%9D%99%E6%80%81%E5%8C%96)<br />.umirc.js文件中，添加：
+3）配置webView工程  
+[A.部署打包配置](https://umijs.org/zh/guide/deploy.html#静态化)  
+.umirc.js文件中，添加：
 
 ```javascript
 outputPath:'../src/dist', //打包后的目录
 exportStatic: {
   htmlSuffix: true,
-	dynamicRoot: true //静态自由部署
+    dynamicRoot: true //静态自由部署
 },
 ```
 
-[B.HTML 模板](https://umijs.org/zh/guide/html-template.html)<br />由于Umi生成没有Html文件，可以自己配置。新建 src/pages/document.ejs，umi 约定如果这个文件存在，会作为默认模板，内容上需要保证有 <div id="root"></div>，比如：
+[B.HTML 模板](https://umijs.org/zh/guide/html-template.html)  
+由于Umi生成没有Html文件，可以自己配置。新建 src/pages/document.ejs，umi 约定如果这个文件存在，会作为默认模板，内容上需要保证有 ，比如：
 
-```html
+```markup
 <!doctype html>
 <html>
 <head>
@@ -229,40 +255,50 @@ exportStatic: {
 </html>
 ```
 
-C.添加新页面<br />直接在pages文件夹下建立页面的js与css样式文件即可。
+C.添加新页面  
+直接在pages文件夹下建立页面的js与css样式文件即可。
 
 D.[《基于 umi 的 React 项目结构介绍》](https://www.jianshu.com/p/0b536e66ac61)
 
-<a name="0d10ca43"></a>
-#### 3、sketch加载webView工程与联调
-1）sketch加载webView<br />第一种方法：<br />直接部署webView工程，通过Url加载：
+### 3、sketch加载webView工程与联调
+
+1）sketch加载webView  
+第一种方法：  
+直接部署webView工程，通过Url加载：
 
 ```javascript
 win.loadURL('https://github.com')
 ```
 
-第二种方法：<br />加载webView工程打包后的文件：
+第二种方法：  
+加载webView工程打包后的文件：
 
 ```javascript
 win.loadURL(require('./dist/index.html'))
 ```
-**注意：**<br />此方法，由umi打包后的静态资源（css、js）需要拷贝到<br />pannel3/pannel3.sketchplugin/Contents/Resources/_webpack_resources下。
 
-2）联调加载方法：<br />本地启动webView工程，本地webView工程会在8000端口起一个服务，加载此服务即可：
+**注意：**  
+此方法，由umi打包后的静态资源（css、js）需要拷贝到  
+pannel3/pannel3.sketchplugin/Contents/Resources/\_webpack\_resources下。
+
+2）联调加载方法：  
+本地启动webView工程，本地webView工程会在8000端口起一个服务，加载此服务即可：
+
 ```javascript
 const Panel = `http://localhost:8000#${Math.random()}`;
 win.loadURL(Panel)
 ```
 
-<a name="2116864a"></a>
-#### [4、项目成果](https://github.com/jingwhale/sketch-webview-kit)
-文件目录如下：<br />![屏幕快照 2019-03-12 下午9.38.58.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552397948059-2d1431ea-e8d1-44a0-93e8-0231085dc953.png#align=left&display=inline&height=675&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-12%20%E4%B8%8B%E5%8D%889.38.58.png&originHeight=1342&originWidth=716&size=150177&status=done&width=360)
+### [4、项目成果](https://github.com/jingwhale/sketch-webview-kit)
 
-<a name="97c045b5"></a>
-### 七、发布sketch 插件
+文件目录如下：  
+![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2019-03-12 &#x4E0B;&#x5348;9.38.58.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1552397948059-2d1431ea-e8d1-44a0-93e8-0231085dc953.png#align=left&display=inline&height=675&name=屏幕快照%202019-03-12%20下午9.38.58.png&originHeight=1342&originWidth=716&size=150177&status=done&width=360)
+
+## 七、发布sketch 插件
+
 前提确保manifest.json的version参数已经修改为想要发布的版本。
 
-```json
+```javascript
 {
   "name": "Whale Kit",
   "identifier": "whale-sketch-webview-kit",
@@ -385,20 +421,25 @@ win.loadURL(Panel)
 
 **首先，**需要把你的插件代码放到 Github仓库；
 
-**其次，**使用开通[GitHub Token](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)；<br />因为，skpm需要一个GitHub令牌才能发布版本，需要`repo`权限才能创建版本。<br />设置完后，使用命令：
-```
+**其次，**使用开通[GitHub Token](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)；  
+因为，skpm需要一个GitHub令牌才能发布版本，需要`repo`权限才能创建版本。  
+设置完后，使用命令：
+
+```text
 skpm login
 ```
 
 将GitHub Token填进去，回车即可。
 
 **最后，**使用命令，等待发布完成即可：
-```
+
+```text
 skpm publish <bump>
 ```
 
 bump为patch, minor, or major其中之一，分别表示补丁，小改，大改
-```
+
+```text
 若是patch，变为1.0.1
 
 若是minor，变为1.1.0
@@ -408,11 +449,15 @@ bump为patch, minor, or major其中之一，分别表示补丁，小改，大改
 
 一旦你的插件被发布，它就会在sketch进行新的部署时出现在[sketch插件官网](https://www.sketch.com/extensions/plugins/)上（可能需要几分钟到几天），部署成功后，可以在[sketch插件官网](https://www.sketch.com/extensions/plugins/)查看发布的插件。
 
-<a name="tNlkn"></a>
-### 八、拓展
-<a name="ac71f360"></a>
-#### [1、](https://www.yuque.com/jingwhale/blog/rt5aci)[React - SketchApp ](https://github.com/airbnb/react-sketchapp)
-是一个开源库，为设计系统量身定制。它通过将 React 元素渲染到 Sketch 来连接设计和开发之间的鸿沟。<br />Sketch Javascript API 是源生代码，React - SketchApp 使用react对Javascript API 进行了二次封装。<br />[1)API](http://airbnb.io/react-sketchapp/docs/API.html)<br />[http://airbnb.io/react-sketchapp/docs/API.html](http://airbnb.io/react-sketchapp/docs/API.html)
+## 八、拓展
 
-[2)Demo](https://www.yuque.com/jingwhale/blog/do37mc)<br />[https://www.yuque.com/jingwhale/blog/do37mc](https://www.yuque.com/jingwhale/blog/do37mc)
+### [1、](https://www.yuque.com/jingwhale/blog/rt5aci)[React - SketchApp ](https://github.com/airbnb/react-sketchapp)
+
+是一个开源库，为设计系统量身定制。它通过将 React 元素渲染到 Sketch 来连接设计和开发之间的鸿沟。  
+Sketch Javascript API 是源生代码，React - SketchApp 使用react对Javascript API 进行了二次封装。  
+[1\)API](http://airbnb.io/react-sketchapp/docs/API.html)  
+[http://airbnb.io/react-sketchapp/docs/API.html](http://airbnb.io/react-sketchapp/docs/API.html)
+
+[2\)Demo](https://www.yuque.com/jingwhale/blog/do37mc)  
+[https://www.yuque.com/jingwhale/blog/do37mc](https://www.yuque.com/jingwhale/blog/do37mc)
 
