@@ -4,7 +4,7 @@
 * [高效设计](gao-xiao-she-ji.md)
 * [设计系统](she-ji-xi-tong.md)
 * [设计理念](she-ji-li-nian.md)
-* 设计价值
+* [设计价值](she-ji-jia-zhi.md)
 * 设计规范
 * 需求分析
 * 需求设计
