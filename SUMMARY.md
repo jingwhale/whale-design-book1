@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* 高效设计
-* 设计系统
-* 设计理念
+* [高效设计](gao-xiao-she-ji.md)
+* [设计系统](she-ji-xi-tong.md)
+* [设计理念](she-ji-li-nian.md)
 * 设计价值
 * 设计规范
 * 需求分析
