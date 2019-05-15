@@ -426,4 +426,4 @@ Ant Design 的设计师通过 4 点来实现设计过程中和工程师的沟通
 做有意义的动效，不去做太多的修饰而干扰用户
 ```
 
-[1）、技术动画](https://motion.ant.design/language/basic-cn)<br />[2）、设计动画](https://www.uisdc.com/use-lottie-make-ae-motion)<br />举报
+[1）、技术动画](https://motion.ant.design/language/basic-cn)<br />[2）、设计动画](https://www.uisdc.com/use-lottie-make-ae-motion)<br />
