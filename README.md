@@ -1,4 +1,4 @@
 # Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+高效设计系统，以设计效率为基础，包含了设计系统理念、设计价值、设计规范、需求分析与设计、动效设计、高效交互设计、高效数据驱动设计等方面的内容。
 
