@@ -9,6 +9,14 @@
 * [高效需求设计](gao-xiao-xu-qiu-she-ji.md)
   * [用户地图故事](gao-xiao-xu-qiu-she-ji/yong-hu-di-tu-gu-shi.md)
   * [设计需求分析与方案选择-战略层](gao-xiao-xu-qiu-she-ji/she-ji-xu-qiu-fen-xi-yu-fang-an-xuan-62e9-zhan-lve-ceng.md)
+  * [竞品调研](gao-xiao-xu-qiu-she-ji/jing-pin-diao-yan.md)
+  * 功能结构图-范围层
+  * 信息架构-结构层
+  * 操作流程图
+  * 产品结构图-框架层
+  * 页面交互图
+  * 让页面更优雅
+  * 交互设计测试与评估
 * [高效设计交互原型](gao-xiao-she-ji-jiao-hu-gui-fan/README.md)
   * [使用Sketch提高工作效率](gao-xiao-she-ji-jiao-hu-gui-fan/shi-yong-sketch-ti-gao-gong-zuo-xiao-lv.md)
   * [Sketch Symbol嵌套设计](gao-xiao-she-ji-jiao-hu-gui-fan/sketch-symbolqian-tao-she-ji.md)
