@@ -8,6 +8,7 @@
 * [设计规范](she-ji-gui-fan.md)
 * [高效需求设计](gao-xiao-xu-qiu-she-ji.md)
   * [用户地图故事](gao-xiao-xu-qiu-she-ji/yong-hu-di-tu-gu-shi.md)
+  * [设计需求分析与方案选择-战略层](gao-xiao-xu-qiu-she-ji/she-ji-xu-qiu-fen-xi-yu-fang-an-xuan-62e9-zhan-lve-ceng.md)
 * [高效设计交互原型](gao-xiao-she-ji-jiao-hu-gui-fan/README.md)
   * [使用Sketch提高工作效率](gao-xiao-she-ji-jiao-hu-gui-fan/shi-yong-sketch-ti-gao-gong-zuo-xiao-lv.md)
   * [Sketch Symbol嵌套设计](gao-xiao-she-ji-jiao-hu-gui-fan/sketch-symbolqian-tao-she-ji.md)
