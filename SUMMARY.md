@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
 * [高效设计](gao-xiao-she-ji.md)
@@ -6,10 +6,8 @@
 * [设计理念](she-ji-li-nian.md)
 * [设计价值](she-ji-jia-zhi.md)
 * [设计规范](she-ji-gui-fan.md)
-* [需求分析](xu-qiu-fen-xi.md)
-* [需求设计](xu-qiu-she-ji.md)
-* [动效设计与落地](dong-xiao-she-ji-yu-luo-di.md)
-* [高效交互设计](gao-xiao-she-ji-jiao-hu-gui-fan/README.md)
+* 高效需求设计
+* [高效设计交互原型](gao-xiao-she-ji-jiao-hu-gui-fan/README.md)
   * [使用Sketch提高工作效率](gao-xiao-she-ji-jiao-hu-gui-fan/shi-yong-sketch-ti-gao-gong-zuo-xiao-lv.md)
   * [Sketch Symbol嵌套设计](gao-xiao-she-ji-jiao-hu-gui-fan/sketch-symbolqian-tao-she-ji.md)
   * [使用代码管理你的设计资产](gao-xiao-she-ji-jiao-hu-gui-fan/shi-yong-dai-ma-guan-li-ni-de-she-ji-zi-chan.md)
@@ -20,17 +18,12 @@
   * [复杂原型的规划与设计准则](gao-xiao-she-ji-jiao-hu-gui-fan/fu-za-yuan-xing-de-gui-hua-yu-she-ji-zhun-ze.md)
   * [附：Axurel 设计交互一基础概念](gao-xiao-she-ji-jiao-hu-gui-fan/fu-ff1a-axurel-she-ji-jiao-hu-yi-ji-chu-gai-nian.md)
   * [附：Axure 设计交互二一高级技能](gao-xiao-she-ji-jiao-hu-gui-fan/fu-ff1a-axure-she-ji-jiao-hu-er-yi-gao-ji-ji-neng.md)
+* [动效设计与落地](dong-xiao-she-ji-yu-luo-di.md)
 * [高效数据驱动设计](gao-xiao-shu-ju-qu-dong-she-ji/README.md)
   * [高效数据驱动设计的意义](gao-xiao-shu-ju-qu-dong-she-ji/gao-xiao-shu-ju-qu-dong-she-ji-de-yi-yi.md)
   * [数据驱动与产品工作](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-qu-dong-yu-chan-pin-gong-zuo.md)
   * [数据驱动研发设计](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-qu-dong-yan-fa-she-ji.md)
   * [数据分析指标与平台](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-fen-xi-zhi-biao-yu-ping-tai.md)
   * [常见数据框架与技术](gao-xiao-shu-ju-qu-dong-she-ji/chang-jian-shu-ju-kuang-jia-yu-ji-zhu.md)
-* [工具集](gong-ju-ji/README.md)
-  * [Whale Kit](gong-ju-ji/whale-kit.md)
-  * [Design Signifiers](gong-ju-ji/design-signifiers.md)
-  * [Whale FusionCool](gong-ju-ji/whale-fusioncool.md)
-  * [Sketch webView插件开发](gong-ju-ji/sketch-webviewcha-jian-kai-fa.md)
-  * [Sketch的正反方向工程成果](gong-ju-ji/sketchde-zheng-fan-fang-xiang-gong-cheng-cheng-guo.md)
-  * [设计文件的版本控制](gong-ju-ji/she-ji-wen-jian-de-ban-ben-kong-zhi.md)
+* 高效需求设计
 
