@@ -145,7 +145,7 @@ D提升形象
 
 <a name="8323aa79"></a>
 #### 4.3、示例
-**设计如何巧妙结合“驱动模型”助力产品**<br />**<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/120638/1551522565109-cbdf354d-10cd-4c7f-aa25-68b57820cc3d.jpeg#align=left&display=inline&height=173&originHeight=626&originWidth=1622&size=0&status=done&width=449)
+**设计如何巧妙结合“驱动模型”助力产品**<br /><br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/120638/1551522565109-cbdf354d-10cd-4c7f-aa25-68b57820cc3d.jpeg#align=left&display=inline&height=173&originHeight=626&originWidth=1622&size=0&status=done&width=449)
 
 <a name="faM41"></a>
 ### 五、人货场的三维模型
