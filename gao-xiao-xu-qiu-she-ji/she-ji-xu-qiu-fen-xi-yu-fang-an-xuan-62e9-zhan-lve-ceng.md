@@ -74,7 +74,7 @@
 
 示例：<br />![1558005704889-ab520539-c0e8-49d6-9166-fd6661b9821d.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558058341055-3c115e72-d185-4eb0-91a7-f2982380695b.png#align=left&display=inline&height=217&name=1558005704889-ab520539-c0e8-49d6-9166-fd6661b9821d.png&originHeight=1140&originWidth=2510&size=493205&status=done&width=478)
 
-**5）、构思应对策略**<br />**6）、归纳设计需求**<br />**7）、展开细节设计**<br />**
+**5）、构思应对策略**<br />**6）、归纳设计需求**<br />**7）、展开细节设计**<br />
 <a name="hqkiU"></a>
 #### 2.2、设计需求分析方法关键点
 **1）、将业务目标转化为用户行为**<br />将业务目标转化为用户行为，即通过引导用户的使用来帮助产品实现目标。
@@ -238,7 +238,7 @@ Time-based 有时限
 动机、担忧：人性：贪婪、虚荣、懒惰、窥视、从众、傲慢。
 
 
-**分解：**<br />**<br />![Group 2.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558008838457-8663755d-8b01-4ba1-a012-ea22be220754.png#align=left&display=inline&height=127&name=Group%202.png&originHeight=250&originWidth=925&size=32686&status=done&width=469)
+**分解：**<br /><br />![Group 2.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558008838457-8663755d-8b01-4ba1-a012-ea22be220754.png#align=left&display=inline&height=127&name=Group%202.png&originHeight=250&originWidth=925&size=32686&status=done&width=469)
 
 
 ```

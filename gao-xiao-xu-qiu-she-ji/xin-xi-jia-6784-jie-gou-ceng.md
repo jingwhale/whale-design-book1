@@ -52,7 +52,7 @@
 ### 二、产品信息架构设计的前期工作
 <a name="Dk9L9"></a>
 #### 2.1、了解用户，场景，习惯
-**1）、Persona用户场景**<br />用户习惯<br />**<br />**2）、尊重用户的习惯**<br />**-四个问题**
+**1）、Persona用户场景**<br />用户习惯<br />**<br />**2）、尊重用户的习惯**<br />**-四个问题
 ```
 用户通常用你的产品做什么？
 用户用这类产品最关心什么？
@@ -96,7 +96,7 @@
 
 <a name="Vucwa"></a>
 #### 2.4、卡片分类法
-**1）、流程**<br />**![1558011652399-33bc279b-75f7-490d-952a-5fd20de5f031.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558074538866-a5551fea-68e9-404e-bc11-1a0dd624009a.png#align=left&display=inline&height=176&name=1558011652399-33bc279b-75f7-490d-952a-5fd20de5f031.png&originHeight=950&originWidth=1564&size=294928&status=done&width=289)
+**1）、流程**<br />![1558011652399-33bc279b-75f7-490d-952a-5fd20de5f031.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558074538866-a5551fea-68e9-404e-bc11-1a0dd624009a.png#align=left&display=inline&height=176&name=1558011652399-33bc279b-75f7-490d-952a-5fd20de5f031.png&originHeight=950&originWidth=1564&size=294928&status=done&width=289)
 
 
 **2）、功能/信息卡片怎么提取?**
