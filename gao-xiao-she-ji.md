@@ -181,7 +181,8 @@
 | 用一句话高度概括 | 品牌拆解<br />分析人、货、场 | 视觉思考的拓展 | 关键字提炼<br />根据关键字提炼设计 | 分析竞品-知己知彼，百战不殆<br />结合业务<br />强化特征 | 品牌立体化结构 |
 | 示例：卖特权的商城：一个 QQ 用户了、体验、购买会员福利的商城。 | 确立清晰的产品目标：<br /><br />品牌目标<br />BRAND GOALS<br /><br />品牌性格<br />BRAND AT TITUDES<br /><br />品牌定位<br />BRAND POSITIONING<br /><br />品牌愿景<br />BRAND VISION<br /><br />品牌宣言<br />BRAND MANIFESTO | 思考模型<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/120638/1551512204591-fb95282c-544b-4a7d-99cd-ac87f866a65e.jpeg#align=left&display=inline&height=199&originHeight=764&originWidth=740&size=0&status=done&width=193)<br />转化示例<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/120638/1551512204657-d2d7081c-f25a-4e9f-ab81-0e46336f757c.jpeg#align=left&display=inline&height=184&originHeight=754&originWidth=798&size=0&status=done&width=195) |  |  | **色-COLOUR**<br />结合业务<br />强化特征<br /><br />**形-PATTERN**<br />形：金毛、红毛、流线型<br />特性提取：统一的设计形状元素是用户情感引导和共鸣<br />区分应用<br />情感延展，延展应用-设计元素的延展给人情感的升华<br /><br />**字- FONT**<br />字体是品牌的灵魂<br />字体分析<br />元素拆解<br /><br />**质- TEXTURE**<br />QUI 规范<br />微质感<br />统一光影<br /><br />**构- CONSTITUTE** |
 
-<a name="688c352d"></a>
+<a name="688c352d"></a>**
+
 ### 4.3 做设计行动派
 立马行动
 
@@ -195,10 +196,10 @@
 
 <a name="c822ff17"></a>
 ### 5.1 可复制化的设计，形成规范
-**
+
 <a name="f96d8821"></a>
 ### 5.2 拓展规范，更有效的协同
-**
+
 <a name="c88a22f0"></a>
 ### 5.3 创新规范，发挥更多可能
 **要点：**
