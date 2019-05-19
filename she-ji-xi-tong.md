@@ -66,8 +66,8 @@
 | --- | --- |
 | **Apple** | [https://developer.apple.com](https://developer.apple.com/) |
 | **Material Design** | [http://design.1sters.com/](http://design.1sters.com/%E3%80%82) |
-| **Ant Design** | **[https://ant.design/index-cn](https://ant.design/index-cn)** |
-| **T****encent** | [https://isux.tencent.com/resources/](https://isux.tencent.com/resources/) |
-| **微信小程序设计指南** | **[https://developers.weixin.qq.com/miniprogram/design/index.html?t=19022017](https://developers.weixin.qq.com/miniprogram/design/index.html?t=19022017)** |
+| **Ant Design** | [https://ant.design/index-cn](https://ant.design/index-cn) |
+| **Tencent** | [https://isux.tencent.com/resources/](https://isux.tencent.com/resources/) |
+| **微信小程序设计指南** | [https://developers.weixin.qq.com/miniprogram/design/index.html?t=19022017](https://developers.weixin.qq.com/miniprogram/design/index.html?t=19022017)|
 
 
