@@ -8,7 +8,7 @@
 
 <a name="GUZyj"></a>
 #### 1.2、开展落实交互设计计划
-![image.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558010115501-0098fae1-8dd3-48c6-ac96-5426c2f3a59d.png#align=left&display=inline&height=350&name=image.png&originHeight=914&originWidth=1080&size=330306&status=done&width=413)<br />**PLAN:**分析业务需求和用户需求，明确设计策略。
+**PLAN:**分析业务需求和用户需求，明确设计策略。
 ```
 分析业务需求（业务目的、业务目标）
 
