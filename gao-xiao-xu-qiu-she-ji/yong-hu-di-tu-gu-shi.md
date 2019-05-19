@@ -95,5 +95,8 @@
 #### 4.3、对功能做减法
 根据产品的业务逻辑做减法<br />根据产品的用户场景做减法<br />根据产品的版本迭代做减法
 
+<a name="rROZi"></a>
+### 五、设计过程-用户体验的五要素：
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558010115501-0098fae1-8dd3-48c6-ac96-5426c2f3a59d.png#align=left&display=inline&height=350&name=image.png&originHeight=914&originWidth=1080&size=330306&status=done&width=413)<br />把用户体验的五要素作为设计的过程。
 
 **产物：功能需求**
