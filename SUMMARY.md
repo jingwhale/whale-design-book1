@@ -35,4 +35,5 @@
   * [数据驱动研发设计](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-qu-dong-yan-fa-she-ji.md)
   * [数据分析指标与平台](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-fen-xi-zhi-biao-yu-ping-tai.md)
   * [常见数据框架与技术](gao-xiao-shu-ju-qu-dong-she-ji/chang-jian-shu-ju-kuang-jia-yu-ji-zhu.md)
+* [交互全局说明](jiao-hu-quan-ju-shuo-ming.md)
 
