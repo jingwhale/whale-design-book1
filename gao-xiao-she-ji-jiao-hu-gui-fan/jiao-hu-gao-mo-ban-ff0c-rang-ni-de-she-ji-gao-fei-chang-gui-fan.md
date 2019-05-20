@@ -2,7 +2,7 @@
 
 <a name="vrfN2"></a>
 ### 一、交互稿目录
-一份较为详尽的交互稿目录如下：<br />![交互稿目录.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558358143766-ff03796f-bbfe-48dc-914b-134de188efb7.png#align=left&display=inline&height=599&name=%E4%BA%A4%E4%BA%92%E7%A8%BF%E7%9B%AE%E5%BD%95.png&originHeight=2232&originWidth=1264&size=335497&status=done&width=339)
+一份较为详尽的交互稿目录如下：<br />![交互稿目录.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558361236239-bf0eb92d-bf3f-4d79-a89d-f32011f71cd0.png#align=left&display=inline&height=633&name=%E4%BA%A4%E4%BA%92%E7%A8%BF%E7%9B%AE%E5%BD%95.png&originHeight=1908&originWidth=1430&size=304589&status=done&width=474)
 
 <a name="uP6o0"></a>
 ### 二、交互约定
