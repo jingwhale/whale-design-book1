@@ -2,7 +2,7 @@
 
 <a name="vrfN2"></a>
 ### 一、交互稿目录
-一份较为详尽的交互稿目录如下：<br />![交互稿目录.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558361236239-bf0eb92d-bf3f-4d79-a89d-f32011f71cd0.png#align=left&display=inline&height=633&name=%E4%BA%A4%E4%BA%92%E7%A8%BF%E7%9B%AE%E5%BD%95.png&originHeight=1908&originWidth=1430&size=304589&status=done&width=474)
+一份较为详尽的交互稿目录如下：<br />![交互稿目录.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558361236239-bf0eb92d-bf3f-4d79-a89d-f32011f71cd0.png#align=left&display=inline&height=632&name=%E4%BA%A4%E4%BA%92%E7%A8%BF%E7%9B%AE%E5%BD%95.png&originHeight=1908&originWidth=1430&size=304589&status=done&width=474)
 
 <a name="uP6o0"></a>
 ### 二、交互约定
@@ -27,22 +27,22 @@
 
 <a name="giBrf"></a>
 #### 2.1、页面标注
-![页面标注内容.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1556262343018-deef54a4-017e-4ed2-9a59-e9dfaa36e14b.png#align=left&display=inline&height=614&name=%E9%A1%B5%E9%9D%A2%E6%A0%87%E6%B3%A8%E5%86%85%E5%AE%B9.png&originHeight=2310&originWidth=1310&size=261074&status=done&width=348)
-
+![页面标注内容.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558362084917-4b601ac1-2364-4c01-a1c5-8e3986247ea2.png#align=left&display=inline&height=406&name=%E9%A1%B5%E9%9D%A2%E6%A0%87%E6%B3%A8%E5%86%85%E5%AE%B9.png&originHeight=1146&originWidth=958&size=160040&status=done&width=339)
 <a name="2tH28"></a>
+#### 
+<a name="WayQB"></a>
 #### 2.2、组件标注
-![组件标注内容.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1556262359258-6d118050-8f13-455a-aaaa-9a5a4c65aee3.png#align=left&display=inline&height=1440&name=%E7%BB%84%E4%BB%B6%E6%A0%87%E6%B3%A8%E5%86%85%E5%AE%B9.png&originHeight=6184&originWidth=2762&size=1021205&status=done&width=643)
+![组件标注内容.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558362177680-b318fd9b-cee7-41f5-a361-1ad92c173a4a.png#align=left&display=inline&height=1430&name=%E7%BB%84%E4%BB%B6%E6%A0%87%E6%B3%A8%E5%86%85%E5%AE%B9.png&originHeight=4314&originWidth=1702&size=664693&status=done&width=564)
 <a name="BbYLb"></a>
 #### 
 <a name="AOtrL"></a>
 #### 2.3、元素标注
-![元素标注内容.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1556262395311-fe0e3c37-a135-44b2-9680-9deec315116b.png#align=left&display=inline&height=195&name=%E5%85%83%E7%B4%A0%E6%A0%87%E6%B3%A8%E5%86%85%E5%AE%B9.png&originHeight=648&originWidth=1098&size=66972&status=done&width=331)
+![元素标注内容.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558362269539-d1dc2505-4b5d-4fdd-b19d-fb1dda792552.png#align=left&display=inline&height=104&name=%E5%85%83%E7%B4%A0%E6%A0%87%E6%B3%A8%E5%86%85%E5%AE%B9.png&originHeight=282&originWidth=922&size=42645&status=done&width=339)
 <a name="BEgrs"></a>
 #### 
 <a name="SYp4j"></a>
 #### 2.4、功能模块标注
-![模块功能标注.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1556262410201-3a7d4a4a-f3fc-4d18-a99a-2f78018e10d3.png#align=left&display=inline&height=561&name=%E6%A8%A1%E5%9D%97%E5%8A%9F%E8%83%BD%E6%A0%87%E6%B3%A8.png&originHeight=1974&originWidth=2138&size=324920&status=done&width=608)
-
+![模块功能标注.png](https://cdn.nlark.com/yuque/0/2019/png/120638/1558362420967-2de2cc81-3e94-4f23-af1b-065602c7d0da.png#align=left&display=inline&height=434&name=%E6%A8%A1%E5%9D%97%E5%8A%9F%E8%83%BD%E6%A0%87%E6%B3%A8.png&originHeight=1290&originWidth=1642&size=240788&status=done&width=553)
 
 <a name="Q3kZq"></a>
 ### 四、为什么要用Sketch输出交互稿
