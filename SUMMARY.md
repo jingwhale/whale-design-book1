@@ -30,5 +30,10 @@
   * [复杂原型的规划与设计准则](gao-xiao-she-ji-jiao-hu-gui-fan/fu-za-yuan-xing-de-gui-hua-yu-she-ji-zhun-ze.md)
   * [附：Axurel 设计交互一基础概念](gao-xiao-she-ji-jiao-hu-gui-fan/fu-ff1a-axurel-she-ji-jiao-hu-yi-ji-chu-gai-nian.md)
   * [附：Axure 设计交互二一高级技能](gao-xiao-she-ji-jiao-hu-gui-fan/fu-ff1a-axure-she-ji-jiao-hu-er-yi-gao-ji-ji-neng.md)
-* 用户体验要素—产品系统设计方法
+* [高效数据驱动设计](gao-xiao-shu-ju-qu-dong-she-ji/README.md)
+  * [高效数据驱动设计的意义](gao-xiao-shu-ju-qu-dong-she-ji/gao-xiao-shu-ju-qu-dong-she-ji-de-yi-yi.md)
+  * [数据驱动与产品工作](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-qu-dong-yu-chan-pin-gong-zuo.md)
+  * [数据驱动研发设计](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-qu-dong-yan-fa-she-ji.md)
+  * [数据分析指标与平台](gao-xiao-shu-ju-qu-dong-she-ji/shu-ju-fen-xi-zhi-biao-yu-ping-tai.md)
+  * [常见数据框架与技术](gao-xiao-shu-ju-qu-dong-she-ji/chang-jian-shu-ju-kuang-jia-yu-ji-zhu.md)
 
